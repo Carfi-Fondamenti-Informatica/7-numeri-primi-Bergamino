@@ -1,1 +1,5 @@
+#ifndef ESRCITAZIONE_7_N_PRIMI_LIB_H
+#define ESRCITAZIONE_7_N_PRIMI_LIB_H
+bool ric (int,int);
 
+#endif //ESRCITAZIONE_7_N_PRIMI_LIB_H
